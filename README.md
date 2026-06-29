@@ -104,9 +104,3 @@ If you have ideas for:
 - Better commit logic  
 - Cool new features  
 - Code cleanup or optimization  
-
-<<<<<<< HEAD
-Feel free to fork this repo and open a pull request.
-=======
-Feel free to fork this repo and open a pull request.
->>>>>>> 033863a (Update README.md)
